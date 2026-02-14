@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Intereses</title>
+    <title>Habilidades</title>
 </head>
 <body>
 
@@ -13,15 +13,14 @@
 </nav>
 
 <div class="container">
-    <h1>Pasatiempos y Gustos</h1>
+    <h1>Habilidades Tecnicas</h1>
 
     <ul>
-        <li>Hacer ejercicio</li>
-        <li>correr</li>
-        <li>Videojuegos</li>
-        <li>Escuchar musica</li>
-        <li>Descansar</li>
-        <li>Pasar tiempo con mi familia</li>
+        <li>Python</li>
+        <li>SQLite</li>
+        <li>Kotlin</li>
+        <li>HTML</li>
+        <li>CSS</li>
     </ul>
 </div>
 
