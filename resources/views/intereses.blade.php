@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Intereses</title>
+<link rel="stylesheet" href="{{ asset('css/estilos.css') }}">
 </head>
 <body>
 
