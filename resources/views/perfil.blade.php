@@ -7,7 +7,7 @@
 
 <nav>
     <a href="/perfil">Perfil</a>
-    <a href="/intereses">Intereses</a>
+    <a href="/perfil/intereses">Intereses</a>
     <a href="/habilidades">Habilidades</a>
     <a href="/metas">Metas</a>
 </nav>
